@@ -1,5 +1,5 @@
 ---
-title: sample blog
+kire's blog: a github skills sample blog
 ---
 
 #kire's sample blog
